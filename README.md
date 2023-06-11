@@ -6,6 +6,7 @@ matplotlib、pandas、numpy、seaborn、sklearn
 
 内容：
 線形回帰、ロジスティック回帰、k-means、決定木、主成分分析、SVM、
-アンサンブル学習(バギング[ランダムフォレスト]、ブースティング[XGBoost、LightBGM、CatBoost]、スタッキング)、等
+アンサンブル学習(バギング[ランダムフォレスト]、ブースティング[XGBoost、LightBGM、CatBoost]、スタッキング)、
+グリッドサーチ、ランダムサーチ、ベイズ最適化、等
 
 
